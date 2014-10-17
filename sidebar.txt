@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qui:home|Door43 (qui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qui|d43-qui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qui/archive/master.zip|d43-qui.zip]]
+
+**Recent Changes**
+{{changes>ns = qui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qui|Ethnologue data]]
+
